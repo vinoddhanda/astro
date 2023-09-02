@@ -1,8 +1,33 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { 
+      "id": 1, 
+      "title": "Lorem ipsum dolor sit amet, consec tetur adipiscing elit, sed do eius...", 
+      "description":"Lorem ipsum dolor sit amet, consec tetur adipiscing elit, sed do eius...",
+      "author":"John Smith",
+      "date":"2022-10-31T09:00:00.594Z"
+    },
+    { 
+      "id": 1, 
+      "title": "Lorem ipsum dolor sit amet, consec tetur adipiscing elit, sed do eius...", 
+      "description":"Lorem ipsum dolor sit amet, consec tetur adipiscing elit, sed do eius...",
+      "author":"John Smith",
+      "date":"2022-10-31T09:00:00.594Z"
+    },
+    { 
+      "id": 1, 
+      "title": "Lorem ipsum dolor sit amet, consec tetur adipiscing elit, sed do eius...", 
+      "description":"Lorem ipsum dolor sit amet, consec tetur adipiscing elit, sed do eius...",
+      "author":"John Smith",
+      "date":"2022-10-31T09:00:00.594Z"
+    },
+    { 
+      "id": 1, 
+      "title": "Lorem ipsum dolor sit amet, consec tetur adipiscing elit, sed do eius...", 
+      "description":"Lorem ipsum dolor sit amet, consec tetur adipiscing elit, sed do eius...",
+      "author":"John Smith",
+      "date":"2022-10-31T09:00:00.594Z"
+    }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
